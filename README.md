@@ -1,28 +1,13 @@
-# This is a preconfigured firmware for the iFactory3D printers. It is all set up to run smoothly.
+# This repository contains the preconfigured firmware for the iFactory3D printers. 
+
+_This firmware is currently based on a modified version of Marlin 2.0 and includes a set of special configurations for the iFactory 3D printers.
+_If you wish, you can directly download, edit and modify our printer's firmware or flash the original version on your printer.
+
+# Instruction
+
+Clone this repository to Github Desktop and edit it with Microsoft Visual Studio Code. Download the Platform IO Extension for editing and finally compile it. A file called update.cbd will be created and can be put on any SD Card. Turn off your printer and put the SD-Card into the cardslot of the printer. Turn the printer on and wait for 20 seconds.
 
 # This repository is just a copy of the official Marlin, with Tronxy X5SA (and variants) pre-configured.
-
-_Right now, this repo don't work with marlin auto build_
-
-## JUST uncomment the option for your machine
-```cpp
-// #define V6_330_TITAN_TMC 1
-// #define V6_330_TITAN_NO_TMC 1
-// #define V6_330_NO_TITAN_TMC 1
-// #define V6_330_NO_TITAN_NO_TMC 1
-// #define V6_400_TITAN_TMC 1
-// #define V6_400_NO_TITAN_TMC 1
-// #define V6_500_TITAN_TMC 1
-
-// #define V5_330_TITAN_TMC 1
-// #define V5_330_TITAN_NO_TMC 1
-// #define V5_330_NO_TITAN_TMC 1
-// #define V5_330_NO_TITAN_NO_TMC 1
-// #define XY3_V5_310_NO_TITAN_NO_TMC_NO_ABL 1
-
-//to use the new UI
-#define MKS_UI
-```
 
 # Marlin 3D Printer Firmware
 
