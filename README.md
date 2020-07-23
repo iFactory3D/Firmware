@@ -1,4 +1,4 @@
-This is a preconfigured firmware for the iFactory3D printers. It is all set up to run smoothly.
+# This is a preconfigured firmware for the iFactory3D printers. It is all set up to run smoothly.
 
 # This repository is just a copy of the official Marlin, with Tronxy X5SA (and variants) pre-configured.
 
