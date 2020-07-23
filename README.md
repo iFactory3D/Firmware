@@ -5,7 +5,15 @@ _If you wish, you can directly download, edit and modify our printer's firmware 
 
 ## Instruction
 
-Clone this repository to Github Desktop and edit it with Microsoft Visual Studio Code. Download the Platform IO Extension for editing and finally compile it. A file called update.cbd will be created and can be put on any SD Card. Turn off your printer and put the SD-Card into the cardslot of the printer. Turn the printer on and wait for 20 seconds.
+- Install Github Desktop and clone this repository
+- Install Microsoft Visual Studio Code with the Platform IO IDE extension 
+- After cloning, open it with Studio Code
+- Edit if you wish and compile it
+- Copy the created update.cbd file to a SD card 
+- Turn off printer
+- Put SD card in printer
+- Start printer and wait
+- You're finished!
 
 # This repository is just a copy of the official Marlin, with Tronxy X5SA (and variants) pre-configured.
 
