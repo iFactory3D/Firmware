@@ -1,9 +1,9 @@
 # This repository contains the preconfigured firmware for the iFactory3D printers. 
 
-_This firmware is currently based on a modified version of Marlin 2.0 and includes a set of special configurations for the iFactory 3D printers.
-_If you wish, you can directly download, edit and modify our printer's firmware or flash the original version on your printer.
+_This firmware is currently based on a modified version of Marlin 2.0 and includes a set of special configurations for the iFactory 3D printers._
+_If you wish, you can directly download, edit and modify our printer's firmware or flash the original version on your printer._
 
-# Instruction
+## Instruction
 
 Clone this repository to Github Desktop and edit it with Microsoft Visual Studio Code. Download the Platform IO Extension for editing and finally compile it. A file called update.cbd will be created and can be put on any SD Card. Turn off your printer and put the SD-Card into the cardslot of the printer. Turn the printer on and wait for 20 seconds.
 
