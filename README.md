@@ -1,6 +1,6 @@
-# This repository contains the preconfigured firmware for the iFactory3D printers. 
-
 ![image](https://drive.google.com/uc?export=view&id=1dkR_PIXPiAQA9x2PIjh7WHnz9MGpRK8x)
+
+# This repository contains the preconfigured firmware for the iFactory3D printers. 
 
 _This firmware is currently based on a modified version of Marlin 2.0 and includes a set of special configurations for the iFactory 3D printers._
 _If you wish, you can directly download, edit and modify our printer's firmware or flash the original version on your printer._
