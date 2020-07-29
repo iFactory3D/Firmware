@@ -7,7 +7,7 @@ _If you wish, you can directly download, edit and modify our printer's firmware 
 
 ## Instruction
 
-- Install Visual Studio Code with the Platform IO IDE and C/C++ extension 
+- Install Visual Studio Code with the Platform IO IDE and C/C++ extensions 
 - Install Github Desktop 
 - Fork and clone this repository
 - Open it with Studio Code
