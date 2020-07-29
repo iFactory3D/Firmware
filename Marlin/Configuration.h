@@ -45,25 +45,25 @@
   #define X_BED_SIZE 330
   #define Y_BED_SIZE 330
   #define Z_MAX_POS 99999
-  #define CUSTOM_MACHINE_NAME "iFactory Beltprinter"
+  #define CUSTOM_MACHINE_NAME "WRONG"
 
 #elif V6_330_TITAN_NO_TMC
   #define MOTHERBOARD BOARD_CHITU3D_V6
   //#define WITH_TMC 1
   #define WITH_TITAN 1
-  #define X_BED_SIZE 330
-  #define Y_BED_SIZE 330
-  #define Z_MAX_POS 400
+  #define X_BED_SIZE 260
+  #define Y_BED_SIZE 180
+  #define Z_MAX_POS 999
   #define CUSTOM_MACHINE_NAME "iFactory Beltprinter"
 
 #elif V6_330_NO_TITAN_TMC
   #define MOTHERBOARD BOARD_CHITU3D_V6
   #define WITH_TMC 1
   //#define WITH_TITAN 1
-  #define X_BED_SIZE 330
-  #define Y_BED_SIZE 330
-  #define Z_MAX_POS 400
-  #define CUSTOM_MACHINE_NAME "Tronxy X5SA V6 330 TMC"
+  #define X_BED_SIZE 260
+  #define Y_BED_SIZE 180
+  #define Z_MAX_POS 99999
+  #define CUSTOM_MACHINE_NAME "iFactory Beltprinter"
 
 #elif V6_330_NO_TITAN_NO_TMC
   #define MOTHERBOARD BOARD_CHITU3D_V6
