@@ -1,0 +1,36 @@
+Quick guide for Marlin and Octoprint
+
+This guide shows how to download the latest printer firmware for your printer and how to install Octoprint Raspberry on your own.
+
+Install Marlin 
+
+You can manually edit and flash Marlin on your printer for your own purposes. It’s recommended just to flash our preconfigured version, so you don’t have to face any issues.
+
+
+1. Download GitHub Desktop and create an account
+
+
+2. Download Visual Studio Code and install following extensions: “Platform IO IDE” and “C/C++”
+
+
+3. Go to GitHub page: https://github.com/iFactory3D/Marlin
+
+
+4. Fork and Clone the project into GitHub Desktop
+
+
+5. In GitHub Desktop, click on the button “Open in Visual Studio Code”
+
+
+6. When project has been opened, compile and built
+
+7. A file named “update.cbd” has been created and it is usually stored in this directory:
+
+Documents/GitHub/iFactory/.pio/build/chitu_v5_gpio_init
+
+
+8. Copy the file to a SD card and insert it in the printer
+
+
+9. Turn printer on and wait till beeping noises sound 5 times. You are finished!
+
