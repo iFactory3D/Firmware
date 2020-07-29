@@ -24,7 +24,7 @@
 //JUST uncomment the option for your machine
 //#define V6_330_TITAN_TMC 1
 //#define V6_330_TITAN_NO_TMC 1
-//  #define V6_330_NO_TITAN_TMC 1
+  #define V6_330_NO_TITAN_TMC 1
 //#define V6_330_NO_TITAN_NO_TMC 1
 // #define V6_400_TITAN_TMC 1
 // #define V6_400_NO_TITAN_TMC 1
@@ -33,7 +33,7 @@
 // #define V5_330_TITAN_TMC 1
 // #define V5_330_TITAN_NO_TMC 1
 // #define V5_330_NO_TITAN_TMC 1
-#define V5_330_NO_TITAN_NO_TMC 1
+//#define V5_330_NO_TITAN_NO_TMC 1
 // #define XY3_V5_310_NO_TITAN_NO_TMC_NO_ABL 1
 
 // #define MKS_UI
@@ -54,7 +54,7 @@
   #define X_BED_SIZE 330
   #define Y_BED_SIZE 330
   #define Z_MAX_POS 400
-  #define CUSTOM_MACHINE_NAME "Tronxy X5SA V6 330 Titan"
+  #define CUSTOM_MACHINE_NAME "iFactory Beltprinter"
 
 #elif V6_330_NO_TITAN_TMC
   #define MOTHERBOARD BOARD_CHITU3D_V6
@@ -1713,7 +1713,7 @@
 
 #if ENABLED(NOZZLE_PARK_FEATURE)
   // Specify a park position as { X, Y, Z_raise }
-  #define NOZZLE_PARK_POINT { (X_MIN_POS + 10), (Y_MAX_POS - 10), 20 }
+  #define NOZZLE_PARK_POINT { (X_MAX_POS - 10), (Y_MAX_POS - 10), 0 }
   //#define NOZZLE_PARK_X_ONLY          // X move only is required to park
   //#define NOZZLE_PARK_Y_ONLY          // Y move only is required to park
   #define NOZZLE_PARK_Z_RAISE_MIN   2   // (mm) Always raise Z by at least this distance
