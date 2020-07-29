@@ -18,6 +18,8 @@ _If you wish, you can directly download, edit and modify our printer's firmware 
 - Start printer and wait
 - You're finished!
 
+You can find a more detailled explanation in the filelist above, called "Quick setup"
+
 # This repository is just a copy of the official Marlin, with Tronxy X5SA (and variants) pre-configured.
 
 # Marlin 3D Printer Firmware
