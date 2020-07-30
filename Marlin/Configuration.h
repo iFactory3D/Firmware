@@ -900,7 +900,7 @@
 #if WITH_TMC && WITH_TITAN
   #define DEFAULT_AXIS_STEPS_PER_UNIT   { 160, 160, 800, 764 }
 #elif WITH_TMC && !WITH_TITAN
-  #define DEFAULT_AXIS_STEPS_PER_UNIT   { 160, 160, 800, 177.14 }   // Modify this setting for steps_per_mm on z axis
+  #define DEFAULT_AXIS_STEPS_PER_UNIT   { 160, 160, 800, 177.14 }   
 #elif WITH_TITAN && !WITH_TMC
   #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 420 }
 #else
