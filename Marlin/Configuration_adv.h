@@ -3194,7 +3194,7 @@
   //#define USER_GCODE_5 "G28\nM503"
 
   #define USER_DESC_1 "Roll up"
-  #define USER_GCODE_1 "G91\nG0 Z771"
+  #define USER_GCODE_1 "G91\nG0 Z772"
 #endif
 
 /**
