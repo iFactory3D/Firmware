@@ -16,7 +16,7 @@ _If you wish, you can directly download, edit and modify our printer's firmware 
 - Turn off printer
 - Put SD card in printer
 - Start printer and wait
-- You're finished!!
+- You're finished!!!!
 
 _You can find a more detailled explanation in the filelist above, called "Quickguide.txt"_
 
