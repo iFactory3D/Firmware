@@ -32,7 +32,7 @@
 
 // #define V5_330_TITAN_TMC 1
 // #define V5_330_TITAN_NO_TMC 1
-// #define V5_330_NO_TITAN_TMC 1
+// #define V5_330_NO_TITAN_TMC 1         
 //#define V5_330_NO_TITAN_NO_TMC 1
 // #define XY3_V5_310_NO_TITAN_NO_TMC_NO_ABL 1
 
@@ -900,7 +900,7 @@
 #if WITH_TMC && WITH_TITAN
   #define DEFAULT_AXIS_STEPS_PER_UNIT   { 160, 160, 800, 764 }
 #elif WITH_TMC && !WITH_TITAN
-  #define DEFAULT_AXIS_STEPS_PER_UNIT   { 160, 160, 800, 177.14 }  
+  #define DEFAULT_AXIS_STEPS_PER_UNIT   { 160, 160, 800, 177.14 }   
 #elif WITH_TITAN && !WITH_TMC
   #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 420 }
 #else
@@ -1560,7 +1560,7 @@
 // For DELTA this is the top-center of the Cartesian print volume.
 //#define MANUAL_X_HOME_POS 0
 //#define MANUAL_Y_HOME_POS 0
-//#define MANUAL_Z_HOME_POS 0   
+//#define MANUAL_Z_HOME_POS 0  
 
 // Use "Z Safe Homing" to avoid homing with a Z probe outside the bed area.
 //
