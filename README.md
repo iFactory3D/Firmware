@@ -18,7 +18,7 @@ _If you wish, you can directly download, edit and modify our printer's firmware 
 - Start printer and wait
 - You're finished!
 
-### Contact us if you run into any kind of issues. We are always glad to help you!
+### Contact us if you run into any kind of issue. We are always glad to help you!
 
 
 
