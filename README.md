@@ -18,6 +18,8 @@ _If you wish, you can directly download, edit and modify our printer's firmware 
 - Start printer and wait
 - You're finished!
 
+### Contact us if you run into any kind of issues. We are always glad to help you!
+
 
 
 _You can find a more detailed explanation in the filelist above, called "Quickguide.txt"_
