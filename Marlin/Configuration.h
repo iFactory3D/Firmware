@@ -32,7 +32,7 @@
 
 // #define V5_330_TITAN_TMC 1
 // #define V5_330_TITAN_NO_TMC 1
-// #define V5_330_NO_TITAN_TMC 1
+// #define V5_330_NO_TITAN_TMC 1         
 //#define V5_330_NO_TITAN_NO_TMC 1
 // #define XY3_V5_310_NO_TITAN_NO_TMC_NO_ABL 1
 

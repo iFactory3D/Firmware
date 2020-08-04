@@ -3193,8 +3193,10 @@
   //#define USER_DESC_5 "Home & Info"
   //#define USER_GCODE_5 "G28\nM503"
 
-  #define USER_DESC_1 "Roll up"
-  #define USER_GCODE_1 "G91\nG0 Z772"
+
+  #define USER_DESC_6 "Role belt once"
+  #define USER_GCODE_6 "G91 \nG0 Z772"
+
 #endif
 
 /**
