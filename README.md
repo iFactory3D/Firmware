@@ -22,7 +22,7 @@ _If you wish, you can directly download, edit and modify our printer's firmware 
 
 _You can find a more detailed explanation in the filelist above, called "Quickguide.txt"_
 
-_Stay conncected with us on GitHub, GitLab and Bitbucket!_
+_Stay conncected with us on GitHub and GitLab!_
 
 # This repository is just a copy of the official Marlin, with Tronxy X5SA (and variants) pre-configured.
 
