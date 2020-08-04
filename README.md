@@ -2,7 +2,7 @@
 
 # This repository contains the preconfigured firmware for the iFactory3D printers. 
 
-_This repository is originally forked from :https://github.com/rhapsodyv/Marlin_
+_This repository is originally forked from: https://github.com/rhapsodyv/Marlin_
 
 _This firmware is currently based on a modified version of Marlin 2.0 and includes a set of special configurations for the iFactory 3D printers._
 _If you wish, you can directly download, edit and modify our printer's firmware or flash the stock version on your printer._
