@@ -63,7 +63,7 @@
   #define X_BED_SIZE 260
   #define Y_BED_SIZE 180
   #define Z_MAX_POS 99999
-  #define CUSTOM_MACHINE_NAME "iFactory Beltprinter"
+  #define CUSTOM_MACHINE_NAME "iFactory3D says: Hi!"
 
 #elif V6_330_NO_TITAN_NO_TMC
   #define MOTHERBOARD BOARD_CHITU3D_V6
