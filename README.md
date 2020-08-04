@@ -20,7 +20,7 @@ _If you wish, you can directly download, edit and modify our printer's firmware 
 - Start printer and wait
 - You're finished!!!!
 
-# Contact us for help :)
+### Contact us for help :)
 
 _You can find a more detailled explanation in the filelist above, called "Quickguide.txt"_
 
