@@ -4,27 +4,28 @@ This guide shows how to download the latest printer firmware for your printer an
 
 Install Marlin 
 
-You can manually edit and flash Marlin on your printer for your own purposes. It’s recommended just to flash our preconfigured version, so you don’t have to face any issues.
+You can manually edit and flash Marlin on your printer for your own purposes. Itâ€™s recommended just to flash our preconfigured version, so you donâ€™t have to face any issues.
 
 
 1. Download GitHub Desktop and create an account
 
 
-2. Download Visual Studio Code and install following extensions: “Platform IO IDE” and “C/C++”
+2. Download Visual Studio Code and install following extensions: â€œPlatformIO IDEâ€ and â€œC/C++â€
 
 
-3. Go to GitHub page: https://github.com/iFactory3D/Marlin
+3. Go to GitHub page: https://github.com/iFactory3D/Marlin or GitLab page: https://gitlab.com/iFactory3D/Firmware
 
 
-4. Fork and Clone the project into GitHub Desktop
+4. Open repository with GitHub Desktop
 
 
-5. In GitHub Desktop, click on the button “Open in Visual Studio Code”
+5. In GitHub Desktop, click on the button â€œOpen in Visual Studio Codeâ€
 
 
 6. When project has been opened, compile and built
 
-7. A file named “update.cbd” has been created and it is usually stored in this directory:
+
+7. A file named â€œupdate.cbdâ€ has been created and it is usually stored in this directory:
 
 Documents/GitHub/iFactory/.pio/build/chitu_v5_gpio_init
 
