@@ -3176,7 +3176,7 @@
   #define CUSTOM_USER_MENU_TITLE "Custom Commands"
   #define USER_SCRIPT_DONE "M117 User Script Done"
   #define USER_SCRIPT_AUDIBLE_FEEDBACK
-  //#define USER_SCRIPT_RETURN  // Return to status screen after a script
+  #define USER_SCRIPT_RETURN  // Return to status screen after a script
 
   //#define USER_DESC_1 "Home & UBL Info"
   //#define USER_GCODE_1 "G28\nG29 W"
@@ -3193,8 +3193,10 @@
   //#define USER_DESC_5 "Home & Info"
   //#define USER_GCODE_5 "G28\nM503"
 
+
   #define USER_DESC_6 "Role belt once"
   #define USER_GCODE_6 "G91 \nG0 Z772"
+
 #endif
 
 /**
