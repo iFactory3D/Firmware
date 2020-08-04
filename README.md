@@ -20,7 +20,7 @@ _If you wish, you can directly download, edit and modify our printer's firmware 
 
 
 
-_You can find a more detailled explanation in the filelist above, called "Quickguide.txt"_
+_You can find a more detailed explanation in the filelist above, called "Quickguide.txt"_
 
 _Stay conncected with us on GitHub, GitLab and Bitbucket!_
 
